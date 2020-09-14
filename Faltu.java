@@ -4,5 +4,4 @@ public class Faltu{
         System.out.println("Faltu "+i);
     }
   }
-  
 }
