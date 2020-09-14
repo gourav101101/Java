@@ -1,4 +1,3 @@
-package com.example.java.Java;
-
-public class DEMO {
-}
+public class Demo{
+  public static void main(String[] args) {
+    System.out.println("Gourav");
